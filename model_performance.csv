@@ -1,5 +1,0 @@
-Model,F1 Score,Precision,Recall
-ResNet-18,0.8328,0.8375,0.8333
-ResNet-50,0.8889,0.8889,0.8889
-MobileNet_v2,0.6494,0.7077,0.6667
-VGG-19,0.9443,0.95,0.9444
